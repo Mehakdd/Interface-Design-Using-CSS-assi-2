@@ -1,0 +1,23 @@
+h3 {
+  font-family: "Itim", cursive;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+  color: rgb(227, 72, 98);
+}
+p {
+  font-family: "Itim", cursive;
+  font-family: "Roboto", sans-serif;
+  color: rgb(98, 65, 71);
+  font-size: larger;
+  line-height: 30px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(137, 206, 183);
+}
+main {
+  text-align: center;
+}
